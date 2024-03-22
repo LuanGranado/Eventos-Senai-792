@@ -460,19 +460,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\Joao Victor\\.nuget\\packages\\": {}
+    "C:\\Users\\biancapfuentes\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\JoaoVictor\\Estudos\\SENAI\\Eventos-Senai-792\\api\\api.csproj",
+      "projectUniqueName": "C:\\Users\\biancapfuentes\\Documents\\GitHub\\Eventos-Senai-792\\api\\api.csproj",
       "projectName": "api",
-      "projectPath": "C:\\JoaoVictor\\Estudos\\SENAI\\Eventos-Senai-792\\api\\api.csproj",
-      "packagesPath": "C:\\Users\\Joao Victor\\.nuget\\packages\\",
-      "outputPath": "C:\\JoaoVictor\\Estudos\\SENAI\\Eventos-Senai-792\\api\\obj\\",
+      "projectPath": "C:\\Users\\biancapfuentes\\Documents\\GitHub\\Eventos-Senai-792\\api\\api.csproj",
+      "packagesPath": "C:\\Users\\biancapfuentes\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\biancapfuentes\\Documents\\GitHub\\Eventos-Senai-792\\api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
-        "C:\\Users\\Joao Victor\\AppData\\Roaming\\NuGet\\NuGet.Config"
+        "C:\\Users\\biancapfuentes\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net8.0"
